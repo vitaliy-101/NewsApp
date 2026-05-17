@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Новости дня</string>
+    <string name="feed_subtitle">Свежая русскоязычная лента из Хабра и Ленты.ру</string>
+    <string name="refresh">Обновить</string>
+    <string name="loading_title">Загружаем новости</string>
+    <string name="loading_subtitle">Подключаемся к источникам и собираем свежую ленту.</string>
+    <string name="error_title">Не удалось загрузить новости</string>
+    <string name="retry">Повторить</string>
+    <string name="empty_title">Пока новостей нет</string>
+    <string name="empty_subtitle">Попробуйте обновить ленту чуть позже.</string>
+    <string name="open_article">Открыть новость</string>
+    <string name="all_sources">Все</string>
+    <string name="habr_source">Хабр</string>
+    <string name="lenta_source">Лента.ру</string>
+</resources>
